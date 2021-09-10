@@ -1,5 +1,5 @@
 # Parallax Rooftop MiniProject
-# Hi, I'm Zaid Deraya :wave:
+## Hi, I'm Zaid Deraya :wave:
 # Parallex Website
 This is my first ever website which created using HTML and CSS. 
 ## Specific Features

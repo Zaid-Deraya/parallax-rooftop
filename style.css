@@ -21,6 +21,10 @@ body, html{
     background-image: url('./img/rt0.jpg');
     min-height: 100%;
 }
+.pimg1 .ptext .border:hover {
+    background-color: white;
+    color:#3f3f3f;
+}
 
 .pimg2{
     background-image: url('./img/rt1.jpg');
